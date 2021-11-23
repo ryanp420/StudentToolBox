@@ -3,7 +3,7 @@ Term Project for CSC-160 with Microsoft Excecutable and source code
 - The code uses
 ```system("cls")``` for Microsoft based systems 
 vs 
-```system("clear") for MACOS and Linux based systems (Unix) 
+```system("clear")``` for MACOS and Linux based systems (Unix) 
 
 ⚠️ This is a Terminal Console Program 
 #
