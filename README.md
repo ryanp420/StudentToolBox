@@ -5,6 +5,10 @@ Term Project for CSC-160 with Microsoft Excecutable and source code
 vs 
 ```system("clear")``` for MACOS and Linux based systems (Unix) 
 
+To compile: 
+```g++ -o main main.cpp Includes/GradeCalculator.cpp Includes/Calculator.cpp Includes/Menu.cpp Includes/Trigonometric.cpp Includes/Game.cpp Includes/Art.cpp```
+
+
 ⚠️ This is a Terminal Console Program 
 #
 
