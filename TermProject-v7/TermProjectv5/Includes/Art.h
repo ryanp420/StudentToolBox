@@ -1,0 +1,2 @@
+void printASCII(); 
+void mainArt(); 
