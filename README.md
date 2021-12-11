@@ -1,5 +1,5 @@
-# TermProjectFinal
-Term Project for CSC-160 with Microsoft Excecutable and source code
+# Project Description
+ Project with Microsoft Excecutable and source code
 - The code uses
 ```system("cls")``` for Microsoft based systems 
 vs 
